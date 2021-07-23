@@ -1,0 +1,233 @@
+getTag(): consider 'C:\phxrepository\cis_dev\dev\bin\.'
+getTag(): consider 'C:\phxrepository\cis_dev\dev\bin'
+getTag(): consider 'C:\phxrepository\cis_dev\dev'
+getTag(): consider 'C:\phxrepository\cis_dev'
+getTag(): consider 'C:\phxrepository'
+getTag(): consider 'C:\'
+getTag(): 'UNKNOWN' found!
+Using org.netbeans.jemmy.drivers.DefaultDriverInstaller driver installer
+2018-05-25 12:27:15.104|getResource|File './data/TASKS.xml' found as 'file:/C:/phxrepository/cis_dev/test/classes/com/wuerth/phoenix/cis/test/menubar/data/TASKS.xml'|OutputChecker.log (enabled)
+2018-05-25 12:27:28.650|getResource|File '/com/wuerth/phoenix/cis/images/note_view.png' found as 'file:/C:/phxrepository/cis_dev/dev/classes/com/wuerth/phoenix/cis/images/note_view.png'|OutputChecker.log (enabled)
+Found boolean isDailySales(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isDailySalesGP(com.wuerth.phoenix.Cis.models.Company)
+Found java.util.ArrayList getPossiblePartnerCompanyList(int, short, com.wuerth.phoenix.Cis.models.CisController)
+Found boolean isPossibleTISICO(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isFactoring(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isNDS(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isBODetailedPlan(com.wuerth.phoenix.Cis.models.Company)
+Found java.lang.String getIFRS16LongVersion(com.wuerth.phoenix.Cis.models.Company, java.util.Locale)
+Found void setLeasing(com.wuerth.phoenix.Cis.models.Company, boolean)
+Found void onCompanyReset(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isLogistics(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isActiveActual(com.wuerth.phoenix.Cis.models.Company, int, short)
+Found boolean isHalfYearEnd(com.wuerth.phoenix.Cis.models.Company, int)
+Found boolean isTP(com.wuerth.phoenix.Cis.models.Company, int)
+Found boolean isIFRS16Orders(com.wuerth.phoenix.Cis.models.Company)
+Found java.lang.String getIFRS16Workflow(com.wuerth.phoenix.Cis.models.Company, java.util.Locale)
+Found boolean isWuerthLine(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isPossiblePartner(com.wuerth.phoenix.Cis.models.Company, int)
+Found boolean isPossiblePartner(com.wuerth.phoenix.Cis.models.Company, int, short)
+Found boolean isRiskManagement(com.wuerth.phoenix.Cis.models.Company)
+Found void setWuerthLine(com.wuerth.phoenix.Cis.models.Company, boolean)
+Found boolean isOnCapexReports(com.wuerth.phoenix.Cis.models.Company, int)
+Found void onCompanyClone(com.wuerth.phoenix.Cis.models.Company, com.wuerth.phoenix.Cis.models.Company, com.wuerth.phoenix.Cis.models.CisController)
+Found void setPEIssuer(com.wuerth.phoenix.Cis.models.Company, boolean)
+Found boolean isIFRS16Workflow(com.wuerth.phoenix.Cis.models.Company, int, short)
+Found boolean isIFRS16Workflow(com.wuerth.phoenix.Cis.models.Company, int)
+Found boolean isOnTISReports(com.wuerth.phoenix.Cis.models.Company)
+Found java.lang.String getME(com.wuerth.phoenix.Cis.models.Company, java.util.Locale)
+Found boolean isImportFXSap(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isSR(com.wuerth.phoenix.Cis.models.Company, int, short)
+Found void setNDS(com.wuerth.phoenix.Cis.models.Company, boolean)
+Found boolean isW3IS(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isBODetailedActual(com.wuerth.phoenix.Cis.models.Company)
+Found void onCompanyCreation(java.lang.String, com.wuerth.phoenix.Cis.models.Company, boolean, com.wuerth.phoenix.Cis.models.CisController)
+Found boolean isFX(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isLifecycle(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isPEIssuer(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isFXHedgeableByWFI(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isCreditLimit(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isTIS(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isIFRS16LongVersion(com.wuerth.phoenix.Cis.models.Company, int, short)
+Found boolean isSRAutoApprove(com.wuerth.phoenix.Cis.models.Company)
+Found void onCompanyImport(java.lang.String, com.wuerth.phoenix.Cis.models.Company, com.wuerth.phoenix.Cis.models.CisController)
+Found java.util.ArrayList getPossiblePartnerPeriodIndependentCompanyList(com.wuerth.phoenix.Cis.models.CisController)
+Found java.lang.String getSR(com.wuerth.phoenix.Cis.models.Company, java.util.Locale)
+Found boolean isCapex(com.wuerth.phoenix.Cis.models.Company, int, short, short)
+Found boolean isCapex(com.wuerth.phoenix.Cis.models.Company, int)
+Found boolean isCapex(com.wuerth.phoenix.Cis.models.Company, int, short)
+Found boolean isME(com.wuerth.phoenix.Cis.models.Company, int, short)
+Found boolean isLeasing(com.wuerth.phoenix.Cis.models.Company)
+Found long getIFRS16WorkflowEnablingFromDate(com.wuerth.phoenix.Cis.models.Company)
+Found boolean isYearEnd(com.wuerth.phoenix.Cis.models.Company, int)
+TestSuite|-DTEST=com.wuerth.phoenix.cis.university.cis.example2.EngineTest(testSample) found
+TestSuite|
+TestSuite|Test Package Name: 'com.wuerth.phoenix.cis.university.cis.example2'
+TestSuite|Test Class Name:   'EngineTest'
+TestSuite|Test Case Name:    'testSample'
+TestSuite|
+TestCaseInfo|-DTEST=com.wuerth.phoenix.cis.university.cis.example2.EngineTest(testSample)|Enable Backup & Restore disabled|Set @CTSBackupAndRestore on test to enable
+TEST CASE SET UP com.wuerth.phoenix.cis.university.cis.example2,EngineTest,testSample
+Loading configuration: '.\Cis_properties.xml'...
+(*) Initialization of database server...    [unknown][instance:4aksio]
+    (-) Initialization of Database services...
+(*) The database server services are ready..!   [PBZCISTRAIN004][instance:4aksio]
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@1a712f12
+Valid combinations: 320
+false false - Reduction Check - A: 6 lines, 6 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@6b03c35c
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@69d2c460
+...END (4609 ms)
+310 combinations removed.
+false false - Reduction Check - F: 3 lines, 6 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@fe337
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@7d741200
+...END (856 ms)
+3 combinations removed.
+false false - Reduction Check - B: 105 lines, 4 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@72b689f6
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@5b5f06bb
+...END (5189 ms)
+1 combinations removed.
+The following 6 combinations have to be tested
+CONTRACTNUMBER
+CONTRACTNUMBER,GROUPPOSITION
+CONTRACTNUMBER,FROMDATE,COSTCENTER
+CONTRACTNUMBER,AMOUNTWITHOUTVALUEADDEDTAX,FROMDATE,COSTCENTER
+CONTRACTNUMBER,FROMDATE,UNTILDATE,COSTCENTER
+CONTRACTNUMBER,AMOUNTWITHOUTVALUEADDEDTAX,FROMDATE,UNTILDATE,COSTCENTER
+Valid combinations: 1088
+false true - Reduction Check - A: 6 lines, 6 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@6e133ed
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@66da2007
+...END (3136 ms)
+1054 combinations removed.
+false true - Reduction Check - F: 3 lines, 6 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@47c90585
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@274b3fc6
+...END (287 ms)
+6 combinations removed.
+false true - Reduction Check - D: 9 lines, 5 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@2a718598
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@2a7bc863
+...END (902 ms)
+1 combinations removed.
+false true - Reduction Check - B: 105 lines, 4 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@241e5fe6
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@190f522a
+...END (1481 ms)
+1 combinations removed.
+false true - Reduction Check - C: 3 lines, 4 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@76eb41bc
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@7a320260
+...END (875 ms)
+4 combinations removed.
+false true - Reduction Check - E: 12 lines, 5 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@52c3818d
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@1b1d9ff5
+...END (531 ms)
+4 combinations removed.
+The following 18 combinations have to be tested
+CONTRACTNUMBER
+CONTRACTNUMBER,GROUPPOSITION
+CONTRACTNUMBER,FROMDATE,COSTCENTER
+CONTRACTNUMBER,AMOUNTWITHOUTVALUEADDEDTAX,FROMDATE,COSTCENTER
+CONTRACTNUMBER,FROMDATE,UNTILDATE,COSTCENTER
+CONTRACTNUMBER,AMOUNTWITHOUTVALUEADDEDTAX,FROMDATE,UNTILDATE,COSTCENTER
+CONTRACTNUMBER,FROMDATE,ORDER
+CONTRACTNUMBER,AMOUNTWITHOUTVALUEADDEDTAX,FROMDATE,ORDER
+CONTRACTNUMBER,FROMDATE,UNTILDATE,ORDER
+CONTRACTNUMBER,AMOUNTWITHOUTVALUEADDEDTAX,FROMDATE,UNTILDATE,ORDER
+CONTRACTNUMBER,FROMDATE,COSTCENTER,ORDER
+CONTRACTNUMBER,AMOUNTWITHOUTVALUEADDEDTAX,FROMDATE,COSTCENTER,ORDER
+CONTRACTNUMBER,FROMDATE,UNTILDATE,COSTCENTER,ORDER
+CONTRACTNUMBER,AMOUNTWITHOUTVALUEADDEDTAX,FROMDATE,UNTILDATE,COSTCENTER,ORDER
+CONTRACTNUMBER,FROMDATE,COSTCENTERTYPE,COSTCENTERORORDER
+CONTRACTNUMBER,AMOUNTWITHOUTVALUEADDEDTAX,FROMDATE,COSTCENTERTYPE,COSTCENTERORORDER
+CONTRACTNUMBER,FROMDATE,UNTILDATE,COSTCENTERTYPE,COSTCENTERORORDER
+CONTRACTNUMBER,AMOUNTWITHOUTVALUEADDEDTAX,FROMDATE,UNTILDATE,COSTCENTERTYPE,COSTCENTERORORDER
+Valid combinations: 10240
+true false - Reduction Check - A: 6 lines, 9 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@7e566ed5
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@4000c8b3
+...END (231 ms)
+10200 combinations removed.
+true false - Reduction Check - F: 3 lines, 10 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@260413c2
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@7e97b443
+...END (311 ms)
+31 combinations removed.
+true false - Reduction Check - B: 105 lines, 5 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@52b43d58
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@2c44dccf
+...END (1630 ms)
+1 combinations removed.
+The following 8 combinations have to be tested
+CONTRACTNUMBER
+CONTRACTNUMBER,GROUPPOSITION
+CONTRACTNUMBER,PAYMENTCYCLE
+CONTRACTNUMBER,GROUPPOSITION,PAYMENTCYCLE
+CONTRACTNUMBER,PAYMENTDATETYPE
+CONTRACTNUMBER,GROUPPOSITION,PAYMENTDATETYPE
+CONTRACTNUMBER,PAYMENTCYCLE,PAYMENTDATETYPE
+CONTRACTNUMBER,GROUPPOSITION,PAYMENTCYCLE,PAYMENTDATETYPE
+Valid combinations: 34816
+true true - Reduction Check - A: 6 lines, 9 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@31a96ac0
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@7f8c3326
+...END (526 ms)
+34680 combinations removed.
+true true - Reduction Check - F: 3 lines, 10 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@2e73ce05
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@4eaa7133
+...END (154 ms)
+62 combinations removed.
+true true - Reduction Check - D: 9 lines, 6 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@4c8cfb32
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@4ef4a3f2
+...END (335 ms)
+1 combinations removed.
+true true - Reduction Check - B: 105 lines, 5 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@4683f3a8
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@671b701f
+...END (1503 ms)
+1 combinations removed.
+true true - Reduction Check - C: 3 lines, 5 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@1e3d60c2
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@5f51ae2f
+...END (949 ms)
+32 combinations removed.
+true true - Reduction Check - E: 12 lines, 6 columns
+START...
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@761a5983
+[main] New Transaction Cis com.wuerth.phoenix.bcserver.base.TransactionContext@296c35c2
+...END (138 ms)
+32 combinations removed.
+The following 8 combinations have to be tested
+CONTRACTNUMBER
+CONTRACTNUMBER,GROUPPOSITION
+CONTRACTNUMBER,PAYMENTCYCLE
+CONTRACTNUMBER,GROUPPOSITION,PAYMENTCYCLE
+CONTRACTNUMBER,PAYMENTDATETYPE
+CONTRACTNUMBER,GROUPPOSITION,PAYMENTDATETYPE
+CONTRACTNUMBER,PAYMENTCYCLE,PAYMENTDATETYPE
+CONTRACTNUMBER,GROUPPOSITION,PAYMENTCYCLE,PAYMENTDATETYPE
+[main] Closed already open transaction: com.wuerth.phoenix.bcserver.base.TransactionContext@1a712f12
+TEST CASE TEAR DOWN com.wuerth.phoenix.cis.university.cis.example2,EngineTest,testSample
